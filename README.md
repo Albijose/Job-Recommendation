@@ -29,3 +29,5 @@ Pandas, NumPy, Scikit-learn for implementation
 
 📊 Output:
 Returns the top 10 job matches with similarity scores
+
+Dataset link  - https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset
