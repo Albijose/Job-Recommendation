@@ -1,4 +1,4 @@
-# Job-Recommentation
+# Job-Recommendation
 TF-IDF VECTORIZATION AND COSINE SIMILARITY
 AI-Based Job Recommendation System Using NLP and Cosine Similarity
 Description:
